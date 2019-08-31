@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.blog-info {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background: #FFF;
+}
+.blog-info__container {
+  width: 100%;
+  height: auto;
+  max-width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+  text-align: center;
+}
+.blog-info__logo {
+  width: 150px;
+  height: auto;
+  overflow: hidden;
+  margin: 0 5;
+}
+
+.contacto {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background: #FFF;
+}
+.contacto__container {
+  width: 100%;
+  height: auto;
+  max-width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+  text-align: center;
+}
+.contacto__logo {
+  width: 150px;
+  height: auto;
+  overflow: hidden;
+  margin: 0 5;
+}
+
+.footer {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background: #121619;
+}
+.footer__container {
+  width: 100%;
+  height: auto;
+  max-width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+  text-align: center;
+}
+.footer__logo {
+  width: 150px;
+  height: auto;
+  overflow: hidden;
+  margin: 0 5;
+}
+
+.navbar {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background: #121619;
+}
+.navbar__container {
+  width: 100%;
+  height: auto;
+  max-width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.navbar__logo {
+  width: 200px;
+  height: auto;
+  overflow: hidden;
+  background: #121619;
+}
+
+.collapse {
+  text-align: right;
+}
+
+.pagination {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background: #6C6E70;
+}
+.pagination__container {
+  width: 100%;
+  height: auto;
+  max-width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+  text-align: center;
+}
+.pagination__logo {
+  width: 150px;
+  height: auto;
+  overflow: hidden;
+  margin: 0 5;
+}
+
+/*# sourceMappingURL=main.css.map */

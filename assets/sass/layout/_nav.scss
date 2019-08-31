@@ -1,0 +1,26 @@
+.navbar {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background: $eerie-black;
+    // background: grey;
+    &__container {
+        width: 100%;
+        height: auto;
+        max-width: 80%;
+        margin: 0 auto;
+        // background: green;
+        overflow: hidden;
+    }
+    &__logo {
+        width: 200px;
+        height: auto;
+        overflow: hidden;
+        background: $eerie-black;
+        // background: pink;
+    }
+}
+
+.collapse {
+    text-align: right;
+}
