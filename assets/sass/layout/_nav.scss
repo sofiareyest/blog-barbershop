@@ -1,26 +1,29 @@
 .navbar {
     width: 100%;
-    height: auto;
+    height: 12vh;
     overflow: hidden;
-    background: $eerie-black;
+    color: $white;
     // background: grey;
-    &__container {
-        width: 100%;
-        height: auto;
-        max-width: 80%;
-        margin: 0 auto;
-        // background: green;
-        overflow: hidden;
-    }
     &__logo {
-        width: 200px;
+        width: 50px;
         height: auto;
         overflow: hidden;
-        background: $eerie-black;
         // background: pink;
     }
 }
 
-.collapse {
+.nav-link {
+    font-family: $pt-mono;
     text-align: right;
+    color: $isabelline;
+}
+
+.form {
+    width: 40%;
+}
+
+.btn {
+    font-family: $pt-mono;
+    text-align: right;
+    color: $isabelline;
 }
